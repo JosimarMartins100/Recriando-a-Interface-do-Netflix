@@ -30,6 +30,7 @@ header .logo{
     color: var(--vermelho);
     font-family: Arial Black;
     font-size: 40px;
+    margin-left: 20px;
 }
 
 header nav a{
@@ -47,7 +48,7 @@ header nav a:hover{
 .filme-principal {
 font-size: 16px;
 background: url('/img/capa-house.jpg');
-height: 400px;
+height: 600px;
 background-size: cover;
 display: flex;
 flex-direction: column;
@@ -100,6 +101,7 @@ align-items: flex-start;
 }
 
 .box-filme{
+    margin-top: 13px;
     height: 100%;
     width: 100%;
     display: block;
