@@ -114,3 +114,7 @@ align-items: flex-start;
     display: block;
 }
 
+.rodape{
+    margin-top: 5px;
+    text-align: center;
+}
